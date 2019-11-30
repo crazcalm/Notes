@@ -1,2 +1,8 @@
 # Notes
-A repo of notes and tips on how to use stuff
+This repo is a collection of my personal notes.
+
+## Topics
+- terminal
+
+### Terminal
+- w3m
